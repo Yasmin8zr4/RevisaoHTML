@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background-color: #FBE8E7;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

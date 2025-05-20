@@ -1,0 +1,34 @@
+.menu-principal{
+    width: 300px;
+    height: 99vh;
+    background-color: #9DBAA0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-principal h1{
+    font-family: 'Ostrich Sans Black', sans-serif;
+    font-size: 80px;
+    color: #252741;
+}
+.menu-principal li{
+    width: 240px;
+    height: 80px;
+    margin: 20px;
+    font-size: 25px;
+    background-color: #668D8D;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    font-family: 'WeezerFont', sans-serif;
+}
+.menu-principal ul{
+    padding: 0;
+}
+.menu-principal li:hover{
+    cursor: pointer;
+    background-color: #77A88C;
+    scale: 
