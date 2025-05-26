@@ -5,7 +5,7 @@ function Contato(){
         <div>
             <h1>Essa é a minha home (página inicial).</h1>
             <p>Uhul</p>
-            <p>Odeio a turma 2024091</p>
+            <p>amo a turma 2024091</p>
         </div>
     )
 }

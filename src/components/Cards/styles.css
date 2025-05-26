@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    border: 1px solid #ff8000;
+    border-radius: 10px;
+    width: 300px;
+    height: fit-content;
+    text-align: center;
+    margin: 20px;
+    color: #47c7fc;
+}
+.carphoto{
+    width: 250px;
+}
